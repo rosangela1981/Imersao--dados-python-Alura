@@ -52,7 +52,7 @@ Caso queira rodar este projeto na sua máquina, siga os passos abaixo:
 Clone o repositório:
 
 Bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/rosangela1981/Imersao--dados-python-Alura.git
 Instale as dependências:
 
 Bash
